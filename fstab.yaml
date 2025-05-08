@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/anhvostone/aem-boilerplate/
+    url: https://content.da.live/anhvostone/Testing/
     type: markup
